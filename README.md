@@ -1,6 +1,12 @@
 ###
 # 💫 Hi I'm Ayaz Rahman:
 🔭 I’m currently studying at East West University<br>🎓 First-year Computer Science & Engineering student<br>🌱 I’m currently learning  C programming
+###
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
